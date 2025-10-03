@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1zSLOGubdLAjgIHIncivaIU87np0vA2DP/view?usp=sharing" alt="Coding Banner" width="100%" />
+  <img src="https://drive.google.com/uc?export=view&id=1zSLOGubdLAjgIHIncivaIU87np0vA2DP" alt="Coding Banner" width="100%" />
 </p>
 
 <!-- Typing SVG -->
